@@ -1,1 +1,23 @@
+body {background-color: #FFA07A;
+Color: #000000;
+font-family: lucida console, monaco, sans-serif;
+margin: 5% 10%;
+} 
 
+.exp-header {
+  text-align: center;
+  border-top: 2px dashed #556B2F;
+  border-bottom: 2px dashed #556B2F;
+}
+
+h1{ color: black;
+font-size: 50px;
+Font-Family: Times New Roman;
+}
+
+h4{ 
+Color: Black;
+font-size: 23px;
+text-decoration: underline;
+font-family: lucida console, monaco, sans-serif;
+}
